@@ -1,0 +1,21 @@
+/*
+background-image:url(fondo2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: justify;
+}*/
+table{
+ width: auto;
+ height: cover;
+ border: 1px solid black;
+ border-collapse: collapse;
+ opacity: 0.97;
+ background: transparent;
+
+}
+td{
+ height: 100px;
+}
+th {
+   height: auto;
+}
